@@ -35,7 +35,7 @@ Contact Book
 4. Exit
 
 Choose an option: 1
-Enter name: Satya
+Enter name: Sri
 Enter phone number: 9876543210
 Contact added!
 ```
