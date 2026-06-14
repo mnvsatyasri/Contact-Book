@@ -8,34 +8,35 @@ You can **add**, **view**, and **search** contacts easily, with data stored in a
 - View all saved contacts
 - Search for a contact by name
 - Data stored in `Contacts.csv`
-- 
 ## How to Run
+
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ContactBook.git
-   '''
+   git clone https://github.com
+   ```
 
-2.Navigate to the project folder:
-  '''bash
-  cd ContactBook
-  '''
+2. Navigate to the project folder:
+   ```bash
+   cd Contact-Book
+   ```
 
-3.Run the script:
-  '''bash
-  python contact_book.py
-  '''
+3. Run the script:
+   ```bash
+   python contact_book.py
+   ```
 
-  ## Example Usage
+## Example Usage
 
-'''text
+```text
 Contact Book
-1.Add Contacts
-2.View Contacts
-3.Search Contacts
-4.Exit
+1. Add Contacts
+2. View Contacts
+3. Search Contacts
+4. Exit
 
 Choose an option: 1
 Enter name: Satya
 Enter phone number: 9876543210
 Contact added!
-'''
+```
+
